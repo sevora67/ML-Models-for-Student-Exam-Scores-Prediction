@@ -1,4 +1,4 @@
-Machine Learning Models for Student Performances Predictions
+Machine Learning Models for Student Exam Scores Predictions
 
 Name: Saul Evora
 Date: 4/13/2026

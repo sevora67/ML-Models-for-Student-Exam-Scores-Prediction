@@ -3,7 +3,7 @@ Machine Learning Models for Student Exam Scores Predictions
 Name: Saul Evora
 Date: 4/13/2026
 
-Description: Machine learning models for student performances predictions contains three different models that are used to predict student exam performances. Those three models are Logistic Regression, Random Forest and Neural Network. This program is designed to run on a Python programming software called “Google Colab.”
+Description: Machine learning models for student exam scores predictions contains three different models that are used to predict student exam performances. Those three models are Logistic Regression, Random Forest and Neural Network. This program is designed to run on a Python programming software called “Google Colab.”
 
 Usability:
 	
